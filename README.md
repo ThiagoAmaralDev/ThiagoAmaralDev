@@ -1,29 +1,26 @@
 # Olá, eu sou o Thiago! 👋
 
 ### 🎓 Estudante de Ciência da Computação | 3º Semestre
-Atualmente focado em aprofundar meus conhecimentos em desenvolvimento de software e expandir minhas habilidades técnicas através da faculdade e projetos pessoais.
+Atualmente focado em construir uma base sólida na área de TI, com grande interesse em infraestrutura, redes de computadores e manutenção de sistemas. Busco minha primeira oportunidade em Suporte Técnico / Helpdesk para aplicar meus conhecimentos acadêmicos na resolução de problemas reais!
 
 ---
 
 ### 🚀 Sobre Mim
-- 📚 Cursando o 3º semestre da graduação.
-- 💼 Jovem Aprendiz com foco em organização, processos e rotinas de trabalho.
-- ⚡ Buscando aprender as melhores práticas de Clean Code e versionamento com Git.
-- 🌱 Atualmente estudando: **HTML, CSS, JavaScript, React e Next.js**
+- 📚 Cursando o 3º semestre da graduação em Ciência da Computação.
+- 💼 Jovem Aprendiz desenvolvendo forte experiência em atendimento ao público, comunicação assertiva e rotinas ágeis.
+- ⚡ Focado em entender o funcionamento de sistemas e resolver problemas de hardware, software e redes.
+- 🌱 Atualmente estudando: **Administração Windows, Redes (IP, DNS), Banco de Dados (MySQL) e Lógica de Programação.**
 
 ---
 
-### 🌐 Desenvolvimento Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### ⚙️ Ferramentas
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🌐 Conhecimentos e Ferramentas
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Terminal/Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
