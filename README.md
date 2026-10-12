@@ -1,6 +1,6 @@
 # Olá, eu sou o Thiago! 👋
 
-### 🎓 Estudante de Ciência da Computação | 3º Semestre
+### 🎓 Estudante de Ciência da Computação | 4º Semestre
 Atualmente focado em construir uma base sólida na área de TI, com grande interesse em infraestrutura, redes de computadores e manutenção de sistemas. Busco minha primeira oportunidade em Suporte Técnico / Helpdesk para aplicar meus conhecimentos acadêmicos na resolução de problemas reais!
 
 ---
