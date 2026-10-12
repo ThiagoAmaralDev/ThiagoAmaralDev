@@ -6,7 +6,7 @@ Atualmente focado em construir uma base sólida na área de TI, com grande inter
 ---
 
 ### 🚀 Sobre Mim
-- 📚 Cursando o 3º semestre da graduação em Ciência da Computação.
+- 📚 Cursando o 4º semestre da graduação em Ciência da Computação.
 - 💼 Jovem Aprendiz desenvolvendo forte experiência em atendimento ao público, comunicação assertiva e rotinas ágeis.
 - ⚡ Focado em entender o funcionamento de sistemas e resolver problemas de hardware, software e redes.
 - 🌱 Atualmente estudando: **Administração Windows, Redes (IP, DNS), Banco de Dados (MySQL) e Lógica de Programação.**
